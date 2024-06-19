@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Unisoft\\MkRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31F0B856-A827-4ABD-BFF0-306E26CA3D48}|MVCHamburgerciOtomasyonu\\MVCHamburgerciOtomasyonu.Web.csproj|c:\\users\\unisoft\\mkrestaurant\\mvchamburgerciotomasyonu\\views\\dashboard\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F0B856-A827-4ABD-BFF0-306E26CA3D48}|MVCHamburgerciOtomasyonu\\MVCHamburgerciOtomasyonu.Web.csproj|solutionrelative:mvchamburgerciotomasyonu\\views\\dashboard\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Unisoft\\MkRestaurant\\MVCHamburgerciOtomasyonu\\Views\\Dashboard\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "MVCHamburgerciOtomasyonu\\Views\\Dashboard\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\Unisoft\\MkRestaurant\\MVCHamburgerciOtomasyonu\\Views\\Dashboard\\AdminDashboard.cshtml",
+              "RelativeToolTip": "MVCHamburgerciOtomasyonu\\Views\\Dashboard\\AdminDashboard.cshtml",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T15:08:13.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
